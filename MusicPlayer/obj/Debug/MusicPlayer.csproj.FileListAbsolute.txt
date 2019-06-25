@@ -1,0 +1,66 @@
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\bin\Debug\Interop.Shell32.dll
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\Interop.Shell32.dll
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.baml
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence Mugeri\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\bin\Debug\Interop.Shell32.dll
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\Interop.Shell32.dll
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.g.cs
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.g.cs
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\ControlPanel.baml
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\InfoPanel.baml
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+F:\Lawrence_Mugeri_PRG512F1PT2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
